@@ -8,8 +8,8 @@
     ["mqtt.mpy", "github:bcbox/bcbox/main/mqtt.mpy"],
     ["neoway.mpy", "github:bcbox/bcbox/main/neoway.mpy"],
     ["battery.mpy", "github:bcbox/bcbox/main/battery.mpy"],
-    ["template/main.html", "github:bcbox/bcbox/main/template/main.html"],
-    ["template/index.html", "github:bcbox/bcbox/main/template/index.html"],
+    ["template/main_html.py", "github:bcbox/bcbox/main/template/main_html.py"],
+    ["template/index_html.py", "github:bcbox/bcbox/main/template/index_html.py"],
     ["static/func.js", "github:bcbox/bcbox/main/static/func.js"],
     ["static/index.js", "github:bcbox/bcbox/main/static/index.js"],
     ["static/style.css", "github:bcbox/bcbox/main/static/style.css"]
