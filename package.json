@@ -12,7 +12,7 @@
     ["template/index_html.mpy", "github:bcbox/bcbox/main/template/index_html.mpy"],
     ["static/func.js", "github:bcbox/bcbox/main/static/func.js"],
     ["static/index.js", "github:bcbox/bcbox/main/static/index.js"],
-    ["static/style.css", "github:bcbox/bcbox/main/static/style.css"]
-
+    ["static/style.css", "github:bcbox/bcbox/main/static/style.css"],
+    ["file_handler.mpy", "github:bcbox/bcbox/main/file_handler.mpy"]
   ]
 }
