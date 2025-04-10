@@ -6,13 +6,15 @@
     ["web_server_app.mpy", "github:bcbox/bcbox/main/web_server_app.mpy"],
     ["gsm.mpy", "github:bcbox/bcbox/main/gsm.mpy"],
     ["mqtt.mpy", "github:bcbox/bcbox/main/mqtt.mpy"],
-    ["neoway.mpy", "github:bcbox/bcbox/main/neoway.mpy"],
+    ["gsm_modem/neoway.mpy", "github:bcbox/bcbox/main/gsm_modem/neoway.mpy"],
+    ["gsm_modem/quectel.mpy", "github:bcbox/bcbox/main/gsm_modem/quectel.mpy"],
     ["battery.mpy", "github:bcbox/bcbox/main/battery.mpy"],
     ["template/main_html.mpy", "github:bcbox/bcbox/main/template/main_html.mpy"],
     ["template/index_html.mpy", "github:bcbox/bcbox/main/template/index_html.mpy"],
     ["static/func.js", "github:bcbox/bcbox/main/static/func.js"],
     ["static/index.js", "github:bcbox/bcbox/main/static/index.js"],
     ["static/style.css", "github:bcbox/bcbox/main/static/style.css"],
-    ["file_handler.mpy", "github:bcbox/bcbox/main/file_handler.mpy"]
+    ["file_handler.mpy", "github:bcbox/bcbox/main/file_handler.mpy"],
+    ["mqtt_as.mpy", "github:bcbox/bcbox/main/mqtt_as.mpy"]
   ]
 }
